@@ -1,0 +1,1 @@
+This is a back-end configuration for a project that was made with the aim of understanding the REST architecture and getting familiar with the RESTFUL API and other technologies tied to that architecture.
